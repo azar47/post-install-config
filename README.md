@@ -4,11 +4,10 @@
 
 # osTicket - Post-Install Configuration
 
-This project demonstrates the post-install configuration of the osTicket help desk system. The goal of this project is to set up the main components of osTicket so that tickets can be created, assigned, and managed properly.
+This project covers the post-install configuration of the osTicket ticketing system. The purpose is to set up the environment so tickets can be created, routed, and managed correctly.
 
 ## Project Summary
-**What this project is:**  
-A walkthrough showing the configuration of osTicket after installation.
+This project walks through configuring osTicket after installation.
 
 **Languages Used:**  
 None
@@ -17,13 +16,13 @@ None
 Microsoft Azure Virtual Machine  
 Remote Desktop  
 
-**Technologies / Services Used:**  
+**Technologies Used:**  
 osTicket  
-Internet Information Services (IIS)  
-Windows 10 (21H2)  
+IIS  
+Windows 10 (21H2)
 
-## Media  
-Screenshots are included throughout the project to show each configuration step.
+## Media
+Screenshots below show each stage of the configuration process.
 
 ---
 
@@ -33,73 +32,73 @@ Screenshots are included throughout the project to show each configuration step.
 
 ## Screenshot 1  
 *(Insert image)*  
-**Description:** Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
+**Description:** The osTicket Admin Login page used by IT staff to manage system settings.
 
 ---
 
 ## Screenshot 2  
 *(Insert image)*  
-**Description:** End Users osTicket URL: http://localhost/osTicket
+**Description:** The osTicket End User Portal where customers submit and check tickets.
 
 ---
 
 ## Screenshot 3  
 *(Insert image)*  
-**Description:** Acknowledge Agent Panel vs Admin Panel
+**Description:** Comparison of the Admin Panel (for administrators) and the Agent Panel (for support staff).
 
 ---
 
 ## Screenshot 4  
 *(Insert image)*  
-**Description:** Configure Roles — Supreme Admin
+**Description:** The newly created “Supreme Admin” role that defines permissions for high-level administrators.
 
 ---
 
 ## Screenshot 5  
 *(Insert image)*  
-**Description:** Configure Departments — SysAdmins
+**Description:** The “SysAdmins” department that groups agents responsible for system-related tickets.
 
 ---
 
 ## Screenshot 6  
 *(Insert image)*  
-**Description:** Configure Teams — Online Banking
+**Description:** The “Online Banking” team, combining agents from different departments to work on specific types of tickets.
 
 ---
 
 ## Screenshot 7  
 *(Insert image)*  
-**Description:** Allow anyone to create tickets (Uncheck registration requirement)
+**Description:** The updated user settings allowing anyone to create tickets without requiring registration.
 
 ---
 
 ## Screenshot 8  
 *(Insert image)*  
-**Description:** Configure Agents — Jane (SysAdmins)
+**Description:** The agent account created for Jane, assigned to the SysAdmins department.
 
 ---
 
 ## Screenshot 9  
 *(Insert image)*  
-**Description:** Configure Agents — John (Support)
+**Description:** The agent account created for John, assigned to the Support department.
 
 ---
 
 ## Screenshot 10  
 *(Insert image)*  
-**Description:** Configure Users — Karen and Ken
+**Description:** User accounts created for Karen and Ken, who will submit tickets as end users.
 
 ---
 
 ## Screenshot 11  
 *(Insert image)*  
-**Description:** Configure SLA — Sev-A, Sev-B, Sev-C
+**Description:** SLA plans (Sev-A, Sev-B, Sev-C) defining response and resolution times for different ticket priorities.
 
 ---
 
 ## Screenshot 12  
 *(Insert image)*  
-**Description:** Configure Help Topics — Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other
+**Description:** Help Topics list that organizes incoming tickets into categories such as outages, computer issues, equipment requests, password resets, and other requests.
 
 ---
 

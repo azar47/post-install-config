@@ -38,10 +38,6 @@ This includes:
 - **IIS Web Server**  
 - **PHP / MySQL Backend** (already installed prior to this configuration phase)
 
----
-
-## 🎥 **Video Demonstration**
-[YouTube: How To Configure osTicket (Post-Installation)](https://www.youtube.com)
 
 ---
 

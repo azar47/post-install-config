@@ -72,15 +72,10 @@ Screenshots below show each stage of the configuration process.
 
 ---
 
-## Screenshot 8  
-*(Insert image)*  
-**Description:** The agent account created for Jane, assigned to the SysAdmins department.
-
----
 
 ## Screenshot 9  
 *(Insert image)*  
-**Description:** The agent account created for John, assigned to the Support department.
+**Description:** Screenshot 8 & 9 — Agent accounts created for Jane (SysAdmins) and John (Support)
 
 ---
 

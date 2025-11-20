@@ -68,13 +68,13 @@ Screenshots below show each stage of the configuration process.
 
 ## Screenshot 7  
 <img width="1920" height="1080" alt="ostpostss7" src="https://github.com/user-attachments/assets/325613ba-c99e-484f-a860-4c1f40ff4fad" />
-**Description:** Screenshot 8 & 9 — Agent accounts created for Jane (SysAdmins) and John (Support)
+**Description:** Agent accounts created for Jane (SysAdmins) and John (Support)
 
 ---
 
 ## Screenshot 8  
 <img width="1920" height="1080" alt="ostpostss8" src="https://github.com/user-attachments/assets/1abe65eb-485f-4860-a6a1-d90f1efc74ed" />
-**Description:** User account created for Karen, who will submit tickets as end an user.
+**Description:** User account created for Karen, who will submit tickets as an end user.
 
 ---
 

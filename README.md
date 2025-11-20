@@ -31,71 +31,60 @@ Screenshots below show each stage of the configuration process.
 ---
 
 ## Screenshot 1  
-*(Insert image)*  
+<img width="1920" height="1080" alt="ostpostss1" src="https://github.com/user-attachments/assets/e72117a7-8d4c-44b2-8798-5acfd0af56dc" />
 **Description:** The osTicket Admin Login page used by IT staff to manage system settings.
 
 ---
 
 ## Screenshot 2  
-*(Insert image)*  
+<img width="1920" height="1080" alt="ostpostss2" src="https://github.com/user-attachments/assets/2d78f643-0e46-45ac-89f8-712a5a46104f" />  
 **Description:** The osTicket End User Portal where customers submit and check tickets.
 
 ---
 
 ## Screenshot 3  
-*(Insert image)*  
+<img width="1920" height="1080" alt="opstpostss3" src="https://github.com/user-attachments/assets/70e5ef5b-a7ba-47bc-b59e-c8f43f629b56" /> 
 **Description:** Comparison of the Admin Panel (for administrators) and the Agent Panel (for support staff).
 
 ---
 
 ## Screenshot 4  
-*(Insert image)*  
+<img width="1920" height="1080" alt="ostpostss4" src="https://github.com/user-attachments/assets/c8700613-40b0-4870-a761-adfc8495d248" />
 **Description:** The newly created “Supreme Admin” role that defines permissions for high-level administrators.
 
 ---
 
 ## Screenshot 5  
-*(Insert image)*  
+ <img width="1920" height="1080" alt="ostpostss5" src="https://github.com/user-attachments/assets/4e83b274-a961-4e40-8060-de2be915c8ae" />
 **Description:** The “SysAdmins” department that groups agents responsible for system-related tickets.
 
 ---
 
 ## Screenshot 6  
-*(Insert image)*  
+<img width="1920" height="1080" alt="ostpostss6" src="https://github.com/user-attachments/assets/4cbf68c2-8f2c-406d-8cf5-bfbf3089f351" />
 **Description:** The “Online Banking” team, combining agents from different departments to work on specific types of tickets.
 
 ---
 
 ## Screenshot 7  
-*(Insert image)*  
-**Description:** The updated user settings allowing anyone to create tickets without requiring registration.
-
----
-
-
-## Screenshot 9  
-*(Insert image)*  
+<img width="1920" height="1080" alt="ostpostss7" src="https://github.com/user-attachments/assets/325613ba-c99e-484f-a860-4c1f40ff4fad" />
 **Description:** Screenshot 8 & 9 — Agent accounts created for Jane (SysAdmins) and John (Support)
 
 ---
 
-## Screenshot 10  
-*(Insert image)*  
-**Description:** User accounts created for Karen and Ken, who will submit tickets as end users.
+## Screenshot 8  
+<img width="1920" height="1080" alt="ostpostss8" src="https://github.com/user-attachments/assets/1abe65eb-485f-4860-a6a1-d90f1efc74ed" />
+**Description:** User account created for Karen, who will submit tickets as end an user.
 
 ---
 
-## Screenshot 11  
-*(Insert image)*  
+## Screenshot 9 
+<img width="1920" height="1080" alt="ostpostss9" src="https://github.com/user-attachments/assets/ca455d27-a0df-47c9-bb57-11bdc9f9e3f7" />
 **Description:** SLA plans (Sev-A, Sev-B, Sev-C) defining response and resolution times for different ticket priorities.
 
 ---
 
-## Screenshot 12  
-*(Insert image)*  
+## Screenshot 10 
+<img width="1920" height="1080" alt="ostpostss10" src="https://github.com/user-attachments/assets/3be3190f-baf4-4cc8-b547-6fb6d21f3018" />
 **Description:** Help Topics list that organizes incoming tickets into categories such as outages, computer issues, equipment requests, password resets, and other requests.
 
----
-
-# End of Project
-This completes the post-install configuration of osTicket.

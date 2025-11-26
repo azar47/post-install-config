@@ -28,6 +28,7 @@ Windows 10 (21H2)
 
 ---
 
+
 <img width="1920" height="1080" alt="ostpostss1" src="https://github.com/user-attachments/assets/e72117a7-8d4c-44b2-8798-5acfd0af56dc" />
 Screenshot 1: The osTicket Admin Login page used by IT staff to manage system settings.
 
@@ -52,7 +53,7 @@ Screenshot 4: The newly created “Supreme Admin” role that defines permission
 ---
 
  
- <img width="1920" height="1080" alt="ostpostss5" src="https://github.com/user-attachments/assets/4e83b274-a961-4e40-8060-de2be915c8ae" />
+<img width="1920" height="1080" alt="ostpostss5" src="https://github.com/user-attachments/assets/4e83b274-a961-4e40-8060-de2be915c8ae" />
 Screenshot 5: The “SysAdmins” department that groups agents responsible for system-related tickets.
 
 ---
@@ -69,7 +70,6 @@ Screenshot 7: Agent accounts created for Jane (SysAdmins) and John (Support)
 
 ---
 
-  
 <img width="1920" height="1080" alt="ostpostss8" src="https://github.com/user-attachments/assets/1abe65eb-485f-4860-a6a1-d90f1efc74ed" />
 Screenshot 8: User account created for Karen, who will submit tickets as an end user.
 
@@ -83,5 +83,5 @@ Screenshot 9: SLA plans (Sev-A, Sev-B, Sev-C) defining response and resolution t
 
 
 <img width="1920" height="1080" alt="ostpostss10" src="https://github.com/user-attachments/assets/3be3190f-baf4-4cc8-b547-6fb6d21f3018" />
-Screenshot 9: Help Topics list that organizes incoming tickets into categories such as outages, computer issues, equipment requests, password resets, and other requests.
+Screenshot 10: Help Topics list that organizes incoming tickets into categories such as outages, computer issues, equipment requests, password resets, and other requests.
 
